@@ -1,0 +1,20 @@
+{
+  "name": "super-basic-webpack",
+  "version": "0.0.1",
+  "description": "trying out webpack",
+  "main": "index.js",
+  "author": "fth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fthebaud/super-basic-webpack.git"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "0.1.8",
+    "file-loader": "0.8.5",
+    "webpack": "1.12.14"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  }
+}
